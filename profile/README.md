@@ -2,7 +2,7 @@
 Actimo Labs is a group of engineers and scientists trying to make 💊 drug discovery cheap and efficient.
 
 ## Where are we right now?
-- Graduated from the Monash University Validator May 2024 cohort
+- Graduated from the Monash University Start-up Validator in May 2024
 
 **Next**: We're participating in the [Monash University Start-up Sprint](https://www.monash.edu/entrepreneurship/programs/startup-sprint) in June 2024. 🏃‍♂️
 
