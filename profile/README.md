@@ -1,6 +1,8 @@
 ## Who are we?
 Actimo Labs is a group of engineers and scientists trying to make 💊 drug discovery cheap and efficient.
 
+Visit our website: https://www.actimolabs.com
+
 ## Where are we right now?
 - Graduated from the Monash University Start-up Validator in May 2024
 
